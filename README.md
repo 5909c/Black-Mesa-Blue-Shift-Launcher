@@ -1,6 +1,6 @@
 # Black-Mesa-Blue-Shift-Launcher
 A simple launcher for Black Mesa: Blue Shift to launch through Steam.
-Includes an optional variant with a Black Mesa inspired starting sequence
+Includes an optional variant with a Black Mesa inspired starting sequence.
 
 [The original Reddit post](https://www.reddit.com/r/BlackMesaSource/comments/102ih19/ive_made_a_launcher_for_black_mesa_blue_shift/)
 ## About the file names (Important)
