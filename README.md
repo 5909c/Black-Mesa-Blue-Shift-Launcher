@@ -6,11 +6,13 @@ Includes an optional variant with a Black Mesa inspired starting sequence
 ## About the file names
 Please note that in the names of the files, v2 denotes a version with the aforementioned starting sequence, while oldUI launches an alternate version of Black Mesa: Blue Shift with a UI resembling that of the classic gold_src engine games.
 
-## To install, move to either:
+## To install, move the executable to either:
 
 **steamapps\workshop\content\362890\2424633574** if you used the symbolic link install method
 
 Or **steamapps\common\Black Mesa** if you used the file browswer install method
+
+Multiple executables can coexist within these folders.
 
 ## The opening sequence
 
