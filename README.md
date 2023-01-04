@@ -12,7 +12,11 @@ Please note that in the names of the files, v2 denotes a version with the aforem
 
 Or **steamapps\common\Black Mesa** if you used the file browswer install method
 
-## Distribution Information
+## The opening sequence
+
+Since it takes so long for Black Mesa: Blue Shift to load for me, I decided to make the starting sequence I mentioned before. It doesn't fully cover the load time, but it's something to look at. The starting sequence comprises of a terminal window with a blue background and white text (Inspired by the BMOS systems seen in Black Mesa) and an ASCII art of the Black Mesa logo (Maybe only *partially* insprired by Portal's credit sequence). It then goes on to a user named barney.calhoun logging on (I've created a simple function to simulate typing) and executing a file named bshift.bat (Or bshift_oldUI.bat if you're using the alternate version). Afterward, the user is given a mysterious warning and the screen is cleared to show text announcing the success of the program's launch.
+
+## Distribution information
 Feel free to distribute this wherever and to whomever you wish. 
 If modifying and distributing, credit me if and where possible.
 
