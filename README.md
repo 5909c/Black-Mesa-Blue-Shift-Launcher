@@ -8,9 +8,9 @@ Note that in the names of the files, v2 denotes a version with the aforementione
 
 ## To install, move the chosen executable to either:
 
-**steamapps\workshop\content\362890\2424633574** if you used the symbolic link install method
+**steamapps\workshop\content\362890\2424633574** if you used the symbolic link install method.
 
-Or **steamapps\common\Black Mesa** if you used the file browswer install method
+Or **steamapps\common\Black Mesa** if you used the file browswer install method.
 
 Multiple executables can coexist within these folders.
 
