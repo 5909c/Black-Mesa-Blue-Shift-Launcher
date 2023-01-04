@@ -19,7 +19,12 @@ Multiple executables can coexist within these folders.
 Since it takes so long for Black Mesa: Blue Shift to load for me, I decided to make the starting sequence I mentioned before. It doesn't fully cover the load time, but it's something to look at. The starting sequence comprises of a terminal window with a blue background and white text (Inspired by the BMOS systems seen in Black Mesa) and an ASCII art of the Black Mesa logo (Maybe only *partially* insprired by Portal's credit sequence). It then goes on to a user named barney.calhoun logging on (I've created a simple function to simulate typing) and executing a file named bshift.bat (Or bshift_oldUI.bat if you're using the alternate version). Afterward, the user is given a mysterious warning and the screen is cleared to show text announcing the success of the program's launch.
 
 ## Distribution information
-Feel free to distribute this wherever and to whomever you wish. 
-If modifying and distributing, credit me if and where possible.
+This is free and unencumbered software released into the public domain.
 
-No external libraries were used in the making of this project.
+Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
+
+In jurisdictions that recognize copyright laws, the author or authors of this software dedicate any and all copyright interest in the software to the public domain. We make this dedication for the benefit of the public at large and to the detriment of our heirs and successors. We intend this dedication to be an overt act of relinquishment in perpetuity of all present and future rights to this software under copyright law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For more information, please refer to https://unlicense.org
